@@ -1,4 +1,4 @@
-This app is a solution to the test: https://github.com/armel/GlobTest
+This app is a solution for the test: https://github.com/armel/GlobTest
 
 Answers:
 
